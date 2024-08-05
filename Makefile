@@ -8,7 +8,7 @@ OBJDIR= ./obj
 RESTART= ./restart
 SOURCE= $(wildcard $(SRCDIR)/*.cpp)
 OBJECT= $(addprefix $(OBJDIR)/, $(notdir $(SOURCE:.cpp=.o)))
-OUTPUT= out.$(TARGET).txt field*.vtr output0* rst stt output0*.vtm geometryflag.vtm geometryflag stop *.txt
+OUTPUT= out.$(TARGET).txt field*.vtr output0* rst stt output0*.vtm geometryflag.vtm geometryflag stop *.txt ./Output
 
 
 
