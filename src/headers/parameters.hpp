@@ -6,6 +6,12 @@
 class Parameters {
 
 public:
+    /** @brief parallel_comp */
+    static bool parallel_comp;
+    static int num_threads;
+
+    /** @brief test_case */
+    static int test_case;
 
     /** @brief tolerance check for division */
     static double inversion_tolerance;

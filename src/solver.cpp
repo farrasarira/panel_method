@@ -213,7 +213,7 @@ void Solver :: solve(const double dt, int iteration){
     body_force_coefficients = compute_body_force_coefficients();
 
     // write iteration output
-    //write_output(iteration);
+    write_output(iteration);
 
 }
 

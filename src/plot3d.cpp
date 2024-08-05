@@ -66,8 +66,8 @@ void PLOT3D :: read_surface(std::string name){
         } /* end i loop */
     } /* end dim loop */
 
-//    for(size_t n = 0; n < surface->nodes.size(); n++)
-//        cout << surface->nodes[n] << endl;
+   for(size_t n = 0; n < surface->nodes.size(); n++)
+       cout << surface->nodes[n] << endl;
 
 
     //populate panels with its node numbers
