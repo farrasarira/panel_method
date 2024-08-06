@@ -7,8 +7,8 @@ int Parameters :: num_threads = 6;
 int Parameters :: test_case = 
     // Uncomment one of the following test case.
     // 0 ; //cylinder
-    1 ; // NACA 0012 Wing
-    // 2 ; // Rotating Blade
+    // 1 ; // NACA 0012 Wing
+    2 ; // Rotating Blade
     // 3 ; // Flapping Wing
 
 

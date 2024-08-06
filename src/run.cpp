@@ -65,8 +65,9 @@ void wing(int argc, char** args)
     // read mesh file
     PLOT3D mesh;
     // string filename = "NACA0012_1.x";
-    string filename = "flying_wing.x";
+    // string filename = "flying_wing.x";
     // string filename = "rectangular_wing.x";
+    string filename = "prop.x";
     string mesh_path = mesh_folder + filename;
     mesh.set_surface(surface);
     mesh.read_surface(mesh_path);
@@ -121,10 +122,12 @@ void rotating_blade(int argc, char** args)
     mesh.read_surface(mesh_path);
 
     // set free stream velocity
-    vector3d free_stream_velocity(0,7,0);
+    // vector3d free_stream_velocity(0,7,0);
+    vector3d free_stream_velocity(0,0,0);
 
     //set angular velocity
-    vector3d surface_angular_velocity(0,71.63,0);
+    // vector3d surface_angular_velocity(0,71.63,0);
+    vector3d surface_angular_velocity(0,0,71.63);
     surface->set_angular_velocity(surface_angular_velocity,false);
 
     double time_step = 0.015;
