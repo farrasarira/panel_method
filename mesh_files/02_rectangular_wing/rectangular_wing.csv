@@ -1,0 +1,242 @@
+# AIRFOIL METADATA CSV FILE
+
+Airfoil File Directory, C:/Users/admin/Downloads/
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_0.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 0
+XSec Flag, 1
+XSec Index, 0
+XSecSurf ID, RRBIIPGVSF
+FoilSurf u Value, 0.000000
+Global u Value, 0.333333
+Leading Edge Point, 0.000000, 0.000000, 0.000000
+Trailing Edge Point, 1.000000, 0.000000, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_1.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 1
+XSec Flag, 0
+FoilSurf u Value, 0.058824
+Global u Value, 0.352941
+Leading Edge Point, 0.000000, 0.529412, 0.000000
+Trailing Edge Point, 1.000000, 0.529412, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_2.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 2
+XSec Flag, 0
+FoilSurf u Value, 0.117647
+Global u Value, 0.372549
+Leading Edge Point, 0.000000, 1.058824, 0.000000
+Trailing Edge Point, 1.000000, 1.058824, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_3.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 3
+XSec Flag, 0
+FoilSurf u Value, 0.176471
+Global u Value, 0.392157
+Leading Edge Point, 0.000000, 1.588235, 0.000000
+Trailing Edge Point, 1.000000, 1.588235, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_4.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 4
+XSec Flag, 0
+FoilSurf u Value, 0.235294
+Global u Value, 0.411765
+Leading Edge Point, 0.000000, 2.117647, 0.000000
+Trailing Edge Point, 1.000000, 2.117647, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_5.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 5
+XSec Flag, 0
+FoilSurf u Value, 0.294118
+Global u Value, 0.431373
+Leading Edge Point, 0.000000, 2.647059, 0.000000
+Trailing Edge Point, 1.000000, 2.647059, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_6.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 6
+XSec Flag, 0
+FoilSurf u Value, 0.352941
+Global u Value, 0.450980
+Leading Edge Point, 0.000000, 3.176471, 0.000000
+Trailing Edge Point, 1.000000, 3.176471, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_7.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 7
+XSec Flag, 0
+FoilSurf u Value, 0.411765
+Global u Value, 0.470588
+Leading Edge Point, 0.000000, 3.705882, 0.000000
+Trailing Edge Point, 1.000000, 3.705882, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_8.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 8
+XSec Flag, 0
+FoilSurf u Value, 0.470588
+Global u Value, 0.490196
+Leading Edge Point, 0.000000, 4.235294, 0.000000
+Trailing Edge Point, 1.000000, 4.235294, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_9.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 9
+XSec Flag, 0
+FoilSurf u Value, 0.529412
+Global u Value, 0.509804
+Leading Edge Point, 0.000000, 4.764706, 0.000000
+Trailing Edge Point, 1.000000, 4.764706, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_10.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 10
+XSec Flag, 0
+FoilSurf u Value, 0.588235
+Global u Value, 0.529412
+Leading Edge Point, 0.000000, 5.294118, 0.000000
+Trailing Edge Point, 1.000000, 5.294118, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_11.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 11
+XSec Flag, 0
+FoilSurf u Value, 0.647059
+Global u Value, 0.549020
+Leading Edge Point, 0.000000, 5.823529, 0.000000
+Trailing Edge Point, 1.000000, 5.823529, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_12.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 12
+XSec Flag, 0
+FoilSurf u Value, 0.705882
+Global u Value, 0.568627
+Leading Edge Point, 0.000000, 6.352941, 0.000000
+Trailing Edge Point, 1.000000, 6.352941, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_13.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 13
+XSec Flag, 0
+FoilSurf u Value, 0.764706
+Global u Value, 0.588235
+Leading Edge Point, 0.000000, 6.882353, 0.000000
+Trailing Edge Point, 1.000000, 6.882353, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_14.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 14
+XSec Flag, 0
+FoilSurf u Value, 0.823529
+Global u Value, 0.607843
+Leading Edge Point, 0.000000, 7.411765, 0.000000
+Trailing Edge Point, 1.000000, 7.411765, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_15.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 15
+XSec Flag, 0
+FoilSurf u Value, 0.882353
+Global u Value, 0.627451
+Leading Edge Point, 0.000000, 7.941176, 0.000000
+Trailing Edge Point, 1.000000, 7.941176, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_16.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 16
+XSec Flag, 0
+FoilSurf u Value, 0.941176
+Global u Value, 0.647059
+Leading Edge Point, 0.000000, 8.470588, 0.000000
+Trailing Edge Point, 1.000000, 8.470588, 0.000000
+Chord, 1.000000
+########################################
+
+########################################
+Airfoil File Name, WingGeom_NRFLCBSWVV_17.dat
+Geom Name, WingGeom
+Geom ID, NRFLCBSWVV
+Airfoil Index, 17
+XSec Flag, 1
+XSec Index, 1
+XSecSurf ID, RRBIIPGVSF
+FoilSurf u Value, 1.000000
+Global u Value, 0.666667
+Leading Edge Point, 0.000000, 9.000000, 0.000000
+Trailing Edge Point, 1.000000, 9.000000, 0.000000
+Chord, 1.000000
+########################################
+

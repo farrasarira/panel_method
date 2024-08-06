@@ -64,7 +64,9 @@ void wing(int argc, char** args)
 
     // read mesh file
     PLOT3D mesh;
-    string filename = "NACA0012_1.x";
+    // string filename = "NACA0012_1.x";
+    string filename = "flying_wing.x";
+    // string filename = "rectangular_wing.x";
     string mesh_path = mesh_folder + filename;
     mesh.set_surface(surface);
     mesh.read_surface(mesh_path);
@@ -76,7 +78,7 @@ void wing(int argc, char** args)
     double fluid_density = 1.225;
 
     // set blade at AOA
-    surface->rotate_surface(vector3d(0,-10.,0),false);
+    surface->rotate_surface(vector3d(0,-5.,0),false);
 
     // create wake object
     shared_ptr<Wake> wake(new Wake());
